@@ -1,0 +1,37 @@
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\bin\Debug\Yurt Sistemi.exe.config
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\bin\Debug\Yurt Sistemi.exe
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\bin\Debug\Yurt Sistemi.pdb
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.Properties.Resources.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.exe
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.pdb
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmOgrKayit.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmAnamenu.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmOgrSil.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmBolumler.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmOdeme.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmOgrSil0.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmPersonel.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmYonetici.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmOgrListe.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmOdaDoluluk.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmKpk.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmGiderler.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.OgrAnamenu.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.OgrOdeme.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.OgrSikayet.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.OgrOdaDegis.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.Ogrİzin.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.OgrYemekhane.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmSikayet.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.Frmİzin.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.FrmYemekhane.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.GirisFormu.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt_Sistemi.Giris1.resources
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\bin\Debug\Yurt Sistemi.exe.manifest
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\bin\Debug\Yurt Sistemi.application
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.exe.manifest
+C:\Users\ACER\Desktop\C# dosyaları\Yurt Sistemi\Yurt Sistemi\obj\Debug\Yurt Sistemi.application
